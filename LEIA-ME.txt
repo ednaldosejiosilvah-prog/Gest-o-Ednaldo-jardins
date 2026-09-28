@@ -1,0 +1,4 @@
+Ednaldo Jardins Gestão V2
+Logo personalizada adicionada ao aplicativo.
+Financeiro: entradas, saídas e combustível (litros, preço/litro, veículo e total).
+Clientes, agenda, tarefas e backup também estão incluídos.
